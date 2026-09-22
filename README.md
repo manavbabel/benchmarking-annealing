@@ -1,7 +1,5 @@
 # DWave Benchmarks
 
-Let's follow this chat: https://claude.ai/chat/4480d201-c5e6-49a1-95eb-2ea68605bb82
-
 Here we replicate the key benchmarks and error metrics suggested in the [docs](https://docs.dwavequantum.com/en/latest/quantum_research/errors.html).
 
 ## Integrated Control Errors
